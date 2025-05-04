@@ -1,0 +1,9 @@
+{
+  "name": "RegretevatorREPO",
+  "version_number": "1.0.0",
+  "website_url": "https://polserull.co.uk/",
+  "description": "Regretevator mod for REPO",
+  "dependencies": [
+    "Zehs-REPOLib-2.0.1"
+  ]
+}
